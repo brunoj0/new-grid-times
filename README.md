@@ -6,7 +6,7 @@ In this workshop, our goal is to build a sophisticated, responsive grid layout f
 
 ## Code structure
 
-Like the last few workshops, this is a React / styled-components application.
+Like the last few workshops, this is a React / styled-components application.w
 
 This application is built using a **mobile-first methodology**. We're starting from a place of having almost-finished mobile styles; your mission is to add that last bit of polish on mobile, and then implement the tablet/laptop layouts specified in the designs.
 
@@ -59,7 +59,7 @@ This guide addresses the common `Digital Envelope Routine` error you may have se
 ## Exercise 1: Header
 
 Like in the Sole&Ankle workshop, this workshop features a two-step header that changes between desktop and mobile.
-
+ 
 This workshop has been created with a "Mobile-first" methodology, and so your goal this time is to create a desktop variant of the header, and ensure the right header is used at both viewport sizes.
 
 ![Highlighted screenshot showing the header of the mockup](/docs/header-cutout.png)

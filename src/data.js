@@ -28,7 +28,7 @@ export const MAIN_STORY = {
 
 Researchers at the San Francisco think-tank Bestcap Innovations posit that time spent playing video games can be productive, in moderation. Active practice can boost reflexes, skills that will come in handy regardless of your view of the future. Even in the event of a zombie apocalypse, time spent in Mega Zombie Bash 2099 should have a powerful impact.
 
-Not everyone views it the same way, though. David Davidson Sr., professor at LIT University, tells The Grid that any benefits are overshadowed by the social isolation caused by long play sessions, alone in a dark basement. “My cat improves her reflexes by jumping on the dinner table and eating my fish sticks, but I don't celebrate that behaviour!”. Dr. Davidson, it should be noted, does not have a cat.
+Not everyone views it the same way, though. David Davidson Sr., professor at LIT University, tells The Grid that any benefits are overshadowed by the social isolation caused by long play sessions, alone in a dark basement. “My cat improves her reflexes by jumping on the dinner table and eating my fish sticks, but I don't celebrate that behaviour!”. Dr. Davidson, it should be noted, does not have a cat.Az
 
 In 1996, early video game researchers discovered that Pac-Man players were 12% more likely to receive college admission, but 31% more likely to drop out. This suggests that, like famous sprinter Roger Bannister, video game players excel at quick bursts of activity, but struggle with long-term sustained effort.
 

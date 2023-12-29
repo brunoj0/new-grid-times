@@ -1,7 +1,8 @@
-import React from 'react';
-import styled from 'styled-components/macro';
+import React from "react";
+import styled from "styled-components/macro";
+import { QUERIES } from "../../constants";
 
-const OpinionStory = ({ id, title, author, avatar }) => {
+const OpinionStory = ({ id, first, title, author, avatar }) => {
   return (
     <a href={`/story/${id}`}>
       <Wrapper>
@@ -17,6 +18,14 @@ const OpinionStory = ({ id, title, author, avatar }) => {
 
 const Wrapper = styled.article`
   color: var(--color-gray-900);
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr auto;
+  @media ${QUERIES.tabletOnly} {
+    display: block;
+    border-top: unset;
+    padding: unset;
+  }
 `;
 
 const Avatar = styled.img`
@@ -25,6 +34,11 @@ const Avatar = styled.img`
   height: 48px;
   border-radius: 50%;
   object-fit: cover;
+  order: 2;
+
+  @media ${QUERIES.desktopAndUp} {
+    order: 2;
+  }
 `;
 
 const AuthorName = styled.p`
